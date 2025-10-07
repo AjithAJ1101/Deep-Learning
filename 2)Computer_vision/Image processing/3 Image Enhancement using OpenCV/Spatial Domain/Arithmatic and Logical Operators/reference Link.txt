@@ -1,0 +1,1 @@
+https://datahacker.rs/005-image-arithmetic-and-logical-operations-in-opencv-with-python/
